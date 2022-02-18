@@ -1,0 +1,87 @@
+body {
+	background-color:  #b30000;
+}
+
+header {
+	font-size: 80px;
+	font-family: 'ONE PIECE';
+	padding-left: 600px;
+}
+
+
+.background {
+	//background-color:   #ffb31a;
+	//height: px;
+	//width: auto;
+	//object-fit: fill;
+	//display: flex;
+	
+	//padding: 50px;
+	
+}
+
+.background__img { 
+	height: 300px;	
+	width:400px;
+	
+}
+
+
+@font-face {
+	   font-family: 'ONE PIECE';
+    src: url('ONEPIECE.eot');
+    src: url('ONEPIECE.eot?#iefix') format('embedded-opentype'),
+        url('ONEPIECE.woff2') format('woff2'),
+        url('ONEPIECE.woff') format('woff'),
+        url('ONEPIECE.ttf') format('truetype'),
+        url('ONEPIECE.svg#ONEPIECE') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;				
+}
+
+
+button {
+	background-color: green;
+	color: white;
+	width: 100px;
+	height: 50px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
